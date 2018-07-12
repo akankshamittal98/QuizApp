@@ -140,7 +140,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Which among following first generation of computers had ?"
+                android:text="Which among following,first generation of computers had ?"
                 android:textColor="@android:color/black"
                 android:textSize="22sp" />
         </LinearLayout>
@@ -217,7 +217,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Which of the following are parts of compputer"
+                android:text="Which of the following are parts of computer"
                 android:textColor="@android:color/black"
                 android:textSize="22sp" />
         </LinearLayout>
