@@ -10,14 +10,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:background="@android:color/holo_purple">
+        android:background="@android:color/black">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:text="QUIZ"
-            android:textColor="@android:color/black"
+            android:textColor="@android:color/holo_red_light"
             android:textSize="50sp"
             android:textStyle="bold" />
 
@@ -193,7 +193,8 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="What is the full form of UI?" />
+                android:text="What is the full form of UI?"
+                android:textColor="@android:color/black" />
         </LinearLayout>
 
         <EditText
